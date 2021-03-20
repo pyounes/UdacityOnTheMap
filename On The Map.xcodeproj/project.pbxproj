@@ -21,12 +21,12 @@
 		6281F55C25F6C6E800E362D6 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6281F55B25F6C6E800E362D6 /* User.swift */; };
 		6281F56425F7DBA800E362D6 /* UserServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6281F56325F7DBA800E362D6 /* UserServices.swift */; };
 		6281F56C25FFC15400E362D6 /* GConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6281F56B25FFC15400E362D6 /* GConstants.swift */; };
+		62F2133D260639F000F678EB /* SpinnerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F2133C260639F000F678EB /* SpinnerVC.swift */; };
 		62F6DD5725FFDC4F005EA2CA /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F6DD5625FFDC4F005EA2CA /* UIViewController+Extension.swift */; };
 		62F6DD5B25FFE35B005EA2CA /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F6DD5A25FFE35B005EA2CA /* MapVC.swift */; };
 		62F6DD5E2603B743005EA2CA /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F6DD5D2603B742005EA2CA /* ListVC.swift */; };
 		62F6DD6D2603CA14005EA2CA /* InformationPostingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F6DD6C2603CA14005EA2CA /* InformationPostingVC.swift */; };
 		62F6DD712603D12C005EA2CA /* LocationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F6DD702603D12C005EA2CA /* LocationVC.swift */; };
-		62F6DD792605D050005EA2CA /* SpinnerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F6DD782605D050005EA2CA /* SpinnerVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,12 +46,12 @@
 		6281F55B25F6C6E800E362D6 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		6281F56325F7DBA800E362D6 /* UserServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserServices.swift; sourceTree = "<group>"; };
 		6281F56B25FFC15400E362D6 /* GConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GConstants.swift; sourceTree = "<group>"; };
+		62F2133C260639F000F678EB /* SpinnerVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpinnerVC.swift; sourceTree = "<group>"; };
 		62F6DD5625FFDC4F005EA2CA /* UIViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
 		62F6DD5A25FFE35B005EA2CA /* MapVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
 		62F6DD5D2603B742005EA2CA /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
 		62F6DD6C2603CA14005EA2CA /* InformationPostingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationPostingVC.swift; sourceTree = "<group>"; };
 		62F6DD702603D12C005EA2CA /* LocationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationVC.swift; sourceTree = "<group>"; };
-		62F6DD782605D050005EA2CA /* SpinnerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SpinnerVC.swift; path = ../../../../Documents/SpinnerVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,7 +152,7 @@
 				6281F56B25FFC15400E362D6 /* GConstants.swift */,
 				62F6DD5625FFDC4F005EA2CA /* UIViewController+Extension.swift */,
 				6281F54325F69F1900E362D6 /* GlobalData.swift */,
-				62F6DD782605D050005EA2CA /* SpinnerVC.swift */,
+				62F2133C260639F000F678EB /* SpinnerVC.swift */,
 			);
 			path = Global;
 			sourceTree = "<group>";
@@ -232,7 +232,7 @@
 				6281F54B25F6A51A00E362D6 /* StudentServices.swift in Sources */,
 				62F6DD5B25FFE35B005EA2CA /* MapVC.swift in Sources */,
 				6281F56C25FFC15400E362D6 /* GConstants.swift in Sources */,
-				62F6DD792605D050005EA2CA /* SpinnerVC.swift in Sources */,
+				62F2133D260639F000F678EB /* SpinnerVC.swift in Sources */,
 				6281F54425F69F1A00E362D6 /* GlobalData.swift in Sources */,
 				6281F56425F7DBA800E362D6 /* UserServices.swift in Sources */,
 				62F6DD712603D12C005EA2CA /* LocationVC.swift in Sources */,
